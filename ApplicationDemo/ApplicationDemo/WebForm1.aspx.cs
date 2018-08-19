@@ -12,6 +12,7 @@ namespace ApplicationDemo
         protected void Page_Load(object sender, EventArgs e)
         {
             Console.WriteLine("tse");
+            Console.WriteLine("this really is a testing");
         }
     }
 }
